@@ -2,12 +2,14 @@ package test_project;
 
 public class nfc {
 	public boolean nfc_connect() {
-		System.out.println("Ö");
+		System.out.println("¶çÀÍ!!!!!");
+		System.out.println("¿¬°á µÇ¾ú½À´Ï´Ù. ");
 		return true;
 	}
 	
 	public boolean nfc_connectloss() {
-		System.out.println("¶ìµñ");
+		System.out.println("¶Ò!!!!!!");
+		System.out.println("¿¬°áÀÌ ²÷°å½À´Ï´Ù. ");
 		return true;
 	}
 }
